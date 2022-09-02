@@ -1,2 +1,3 @@
 my second commit
-hello
+a new commit
+commit
